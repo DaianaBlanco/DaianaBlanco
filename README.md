@@ -11,7 +11,7 @@
 
 📫 *Contact Me*
 Mail: blancodaiana3@gmail.com |
-LinkedIn: https://www.linkedin.com/in/daiana-blanco/ |
+LinkedIn:<link https://www.linkedin.com/in/daiana-blanco/> Linkedin </link> |
 GitHub: https://github.com/DaianaBlanco |
 Twitter: https://twitter.com/daianabl
 
