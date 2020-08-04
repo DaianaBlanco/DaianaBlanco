@@ -1,8 +1,5 @@
 ### Hi👋  I'm Daiana Blanco 
 
-<!--
-**DaianaBlanco/DaianaBlanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👩🏻‍💻 Full Stack Web Developer Trainee/Jr 
 👩🏻‍🎓 Systems Analyst Student 
 
@@ -11,9 +8,8 @@
 🚀 Aptitudes e intereses: #JAVA #JS #HTML5 #CSS #UX/UI
 
 📫 Contact Me:
-Mail - blancodaiana3@gmail.com
-LinkedIn - Daiana Blanco
-GitHub DaianaBlanco
-Twitter: daianabl 
--->
+Mail: blancodaiana3@gmail.com
+LinkedIn: Daiana Blanco
+GitHub: DaianaBlanco
+Twitter: @daianabl 
 
