@@ -1,12 +1,12 @@
 ### Hi 👋  I'm Daiana Blanco 
 
-👩🏻‍💻 Full Stack Web Developer Trainee/Jr |
+👩🏻‍💻 Front Web Developer Trainee/Jr & UX/UI Designer in process ⌛️|
 👩🏻‍🎓 Systems Analyst Student 
 
 
 ⭐️ A little more about me ⭐️ |
-🌎 En búsqueda de nuevos desafíos, que me permitan crecer y desarrollarme profesionalmente en el mundo IT.|
-🚀 Aptitudes e intereses: #JAVA #JS #HTML5 #CSS #UX/UI
+🌎 En búsqueda de nuevos desafíos, que me permitan crecer y desarrollarme profesionalmente en el mundo IT. Enfocado al Front End & UX/UI Design|
+🚀 Aptitudes e intereses: #HTML5 #CSS #JS #REACT #UX/UI
 
 
 📫 *Contact Me*
