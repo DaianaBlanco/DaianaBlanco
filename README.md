@@ -7,8 +7,8 @@
 - 🚀 Aptitudes e intereses: #HTML5 #CSS #JS #REACT #REACTNATIVE #REDUX
 
 📫 **Contact Me**
+- Portfolio: https://daianablanco.netlify.app/ |
 - Mail: blancodaiana3@gmail.com |
-- Mi portfolio: https://daianablanco.netlify.app/ |
 - LinkedIn: <https://www.linkedin.com/in/daiana-blanco/>|
 
 
