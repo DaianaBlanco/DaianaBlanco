@@ -8,8 +8,8 @@
 
 📫 **Contact Me**
 - Mail: blancodaiana3@gmail.com |
+- Mi portfolio: https://daianablanco.netlify.app/ |
 - LinkedIn: <https://www.linkedin.com/in/daiana-blanco/>|
-- GitHub: <https://github.com/DaianaBlanco> 
 
 
 
